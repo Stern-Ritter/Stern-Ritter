@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Codewars](https://www.codewars.com/users/Stern-Ritter/badges/micro)](https://www.codewars.com/users/Stern-Ritter)
 
 <!--
 **Stern-Ritter/Stern-Ritter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

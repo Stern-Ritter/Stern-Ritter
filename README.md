@@ -1,4 +1,13 @@
+<!-- Skills -->
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 [![Codewars](https://www.codewars.com/users/Stern-Ritter/badges/micro)](https://www.codewars.com/users/Stern-Ritter)
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stern-Ritter&theme=blue-green)
 
 <!--
 **Stern-Ritter/Stern-Ritter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

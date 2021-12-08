@@ -5,7 +5,7 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![Codewars](https://www.codewars.com/users/Stern-Ritter/badges/micro)](https://www.codewars.com/users/Stern-Ritter)
+[![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=Stern-Ritter&badge&name_only)
 [![LeetCode user Stern-Ritter](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FStern-Ritter&logo=leetcode&logoColor=yellow)](https://leetcode.com/Stern-Ritter/)
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stern-Ritter&theme=blue-green)

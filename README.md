@@ -5,7 +5,7 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=Stern-Ritter&badge&colormode=dark_mode)
+![Codewars](https://www.codewars.com/users/Stern-Ritter/badges/small)
 
 
 <!--

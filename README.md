@@ -5,11 +5,11 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Codewars](https://www.codewars.com/users/Stern-Ritter/badges/small)
-
+✨✨✨
+![Codewars](https://github.r2v.ch/codewars?user=Stern-Ritter)
+[![LeetCode user Stern-Ritter](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FStern-Ritter&logo=leetcode&logoColor=yellow)](https://leetcode.com/Stern-Ritter/)
 
 <!--
-[![LeetCode user Stern-Ritter](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FStern-Ritter&logo=leetcode&logoColor=yellow)](https://leetcode.com/Stern-Ritter/)
 **Stern-Ritter/Stern-Ritter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

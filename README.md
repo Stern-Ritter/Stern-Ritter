@@ -2,7 +2,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ##### Немного обо мне... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 Занимаюсь fullstack разработкой с уклоном во frontend, люблю решать алгоритмические задачи, писать тесты и изучать новые технологии.  
-<img align="left" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />  
 ##### 🔍 Контакты:
 * fadeef.k@yandex.ru
 * [Habr Career](https://career.habr.com/stern-ritter)
@@ -48,3 +47,4 @@
 ##### 📈  Статистика:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Stern-Ritter&show_icons=true&theme=white)  
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stern-Ritter&theme=white)  
+<img align="left" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />  

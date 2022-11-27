@@ -1,5 +1,4 @@
 ##### Привет, меня зовут Константин (@Stern-Ritter).
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ##### Немного обо мне... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 Занимаюсь fullstack разработкой с уклоном во frontend, люблю решать алгоритмические задачи, писать тесты и изучать новые технологии.  
 ##### 🔍 Контакты:

@@ -42,7 +42,7 @@
 ГУУ - 'Менеджмент', Сентябрь 2009—Сентябрь 2014 (5 лет)
 
 #### 🧩  Алгоритмические задачи:
-![Codewars](https://github.r2v.ch/codewars?user=Stern-Ritter&theme=grey)  
+![Codewars](https://github.r2v.ch/codewars?user=Stern-Ritter)  
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stern_Ritter&theme=grey)](https://github.com/Stern_Ritter/leetcode-stats)
 #### 📈  Статистика:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Stern-Ritter&show_icons=true&theme=dark)  

@@ -26,13 +26,7 @@
 ![dot-net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
-#### 📋  Проекты:
- - **Yandex Practicum (Junior Java Developer):**
-      - **Explore with me** - Backend для веб-приложения, которое поможет найти человека для поездки в путешествие, похода в кино или другого досуга. [[Repo]](https://github.com/Stern-Ritter/java-explore-with-me)
-      - **Share it** - Backend для веб-приложения, в котором вы с друзьями сможете обмениваться вещами на время: инструментами, гаджетами, книгами и так далее. Как каршеринг, только для вещей. [[Repo]](https://github.com/Stern-Ritter/java-shareit)
-      - **Filmorate** - Backend для веб-приложения, социальной сети, которая поможет выбрать кино на основе того, какие фильмы вы и ваши друзья смотрите и какие оценки им ставите. [[Repo]](https://github.com/Stern-Ritter/java-filmorate)
-      - **Kanban** - Backend для веб-приложения, которое позволяет ставить цели, задачи и сроки по проектам, следить и измерять активность и оценивать результаты. [[Repo]](https://github.com/Stern-Ritter/java-kanban)
- 
+#### 📋  Проекты: 
  - **Yandex Practicum (Junior Frontend Developer):**
       - **Stellar Burgers** - Приложение космической бургерной, позволяющее пользователям оформить онлайн заказ, самостоятельно собрав бургер по своему вкусу. В приложении можно отслеживать готовность заказа и посмотреть все свои заказы, также предусмотрена регистрация и авторизация пользователей. [[Repo]](https://github.com/Stern-Ritter/stellar-burgers)
       - **Место** - Проект позволяет делиться своими фотографиями с другими пользователями: добавлять и удалять фотографии, редактировать их описание, а также ставить фотографиям лайки. [[Repo]](https://github.com/Stern-Ritter/mesto-project-pair-programming)

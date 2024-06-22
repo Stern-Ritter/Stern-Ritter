@@ -53,6 +53,6 @@
 #### 🧩  Алгоритмические задачи:
 ![Codewars](https://github.r2v.ch/codewars?user=Stern-Ritter)
 #### 📈  Статистика:
-![Github stats](https://github-readme-stats.vercel.app/api?username=Stern-Ritter&show_icons=true&theme=dark)  
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stern-Ritter&theme=dark)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=Stern-Ritter&show_icons=true&theme=dark)
+![Codewars](https://github.r2v.ch/codewars?user=Stern-Ritter&name=true&stroke=%23b362ff&theme=purple_dark) 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />  
